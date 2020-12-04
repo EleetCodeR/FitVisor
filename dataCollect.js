@@ -58,13 +58,13 @@ function keyPressed(){
         targetLabel = key;
         console.log(targetLabel);
         setTimeout(function() {
-            console.log('collecting');
+            console.log('collecting......');
             state = 'collecting';
             setTimeout(function() {
                 console.log('stopped collecting');
                 state = 'waiting';            
-            },10000);// collect for 10 sec
-        },8000);// get ready in 8 sec.
+            },15000);// collect for 15 sec
+        },10000);// get ready in 10 sec.
         
     }
    

@@ -5,7 +5,7 @@ let skeleton;
 
 let brain;
 let poseLabel = "A";
-let confScore;
+let confScore = 0;
 
 function setup() {
   createCanvas(640, 480);
@@ -101,13 +101,16 @@ function draw() {
 
   fill(255, 0, 255);
   noStroke();
-  textSize(512);
+  textSize(100);
   textAlign(CENTER, CENTER);
   text(poseLabel, width / 2, height / 2);
 
-  fill(255, 0, 255);
+  fill(255, 255, 255);//white
   noStroke();
-  textSize(512);
-  textAlign(CENTER, CENTER);
-  text(confScore, width / 8, height / 8);
+  textSize(30);
+  textAlign(RIGHT, BOTTOM);
+  var n = (confScore*100);
+  n = n.toFixed(2);
+  text('c-score: '+n+'%', 512,400);
+  // console.log(typeof(confScore));
 }
