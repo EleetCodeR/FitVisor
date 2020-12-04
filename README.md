@@ -22,7 +22,7 @@ Operating System : Windows 10 (64-bit),
 ### 1. Data Collection Stage:
 
 
----------------------------------------------------- Data Collection for Pose Label - 'A'---------------------------------------------------- 
+---------------------------------------------------- Data Collection for Pose Label - 'A'  
 <p align="center">
   
   <img src="https://user-images.githubusercontent.com/49197592/101179510-50840b00-3670-11eb-8545-7c89cda79eea.png"  width="645" height="346"/>
@@ -30,7 +30,7 @@ Operating System : Windows 10 (64-bit),
 </p>
 
 
----------------------------------------------------- Data Collection for Pose Label - 'B'---------------------------------------------------- 
+---------------------------------------------------- Data Collection for Pose Label - 'B'  
 <p align="center">
   
   <img src="https://user-images.githubusercontent.com/49197592/101179514-524dce80-3670-11eb-9a79-998d69c5cca3.png"  width="645" height="346"/>
@@ -38,7 +38,7 @@ Operating System : Windows 10 (64-bit),
 </p>
 
 
----------------------------------------------------- Data Collection for Pose Label - 'C'---------------------------------------------------- 
+---------------------------------------------------- Data Collection for Pose Label - 'C'  
 <p align="center">
  
   <img src="https://user-images.githubusercontent.com/49197592/101179516-537efb80-3670-11eb-9de3-90144ade962a.png"  width="645" height="346"/>
@@ -46,7 +46,7 @@ Operating System : Windows 10 (64-bit),
 </p>
 
 
----------------------------------------------------- Data Collection for Pose Label - 'D'---------------------------------------------------- 
+---------------------------------------------------- Data Collection for Pose Label - 'D'  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/49197592/101179297-0f8bf680-3670-11eb-8c43-17d3b2253dea.png"  width="645" height="346"/>
 </p>
