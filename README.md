@@ -132,7 +132,7 @@ The model deployment step constitutes setting  up the models and keeping the sys
 
 ## References :
 
-A big thanks to David Shiffman for his great content, this project  was a inspired from his lectures. I definately recommend you to visit his YouTube channel and website.  
+A big thanks to David Shiffman for his great content, this project  was inspired from his lectures. I definately recommend his YouTube channel and website.  
   
   YouTube Channel - https://www.youtube.com/user/shiffman
   
