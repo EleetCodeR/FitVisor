@@ -1,5 +1,5 @@
 # FitVisor
-a Machine Learning based In-Browser Fitness assistant based on Human Pose Estimation.
+a Machine Learning based In-Browser Fitness assistant/tracker (prototype) based on Human Pose Estimation.
 
 ## Contents :
 1. Abstract  
