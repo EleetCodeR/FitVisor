@@ -33,20 +33,6 @@ Operating System : Windows 10 (64-bit),
 
  Model Training : Loss vs No. of Epoch graph , loss function successfully attaining minimum value during training.
  
- 
- ### 3. Model Deployment Stage:
-
-Model Deployment: Showing Results, figures below show our model accurately detecting poses and showing detected Class label and confidence score respectively for each pose. 
- 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/49197592/101179316-1286e700-3670-11eb-98fe-cf1475282449.png"  width="319" height="289"/>
-  <img src="https://user-images.githubusercontent.com/49197592/101179320-13b81400-3670-11eb-9b07-8d2f0a908f9e.png"   width="319" height="289"/>
-  <img src="https://user-images.githubusercontent.com/49197592/101179324-14e94100-3670-11eb-83d3-18977803f996.png"   width="319" height="289"/>
-  <img src="https://user-images.githubusercontent.com/49197592/101179327-1581d780-3670-11eb-99ac-f548f9be2431.png"   width="319" height="289"/>
-</p>
-
-
-
 
 ## System Design :
 
